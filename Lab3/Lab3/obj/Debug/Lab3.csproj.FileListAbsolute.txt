@@ -1,0 +1,20 @@
+C:\Users\wowdi\source\repos\Lab3\Lab3\bin\Debug\Lab3.exe.config
+C:\Users\wowdi\source\repos\Lab3\Lab3\bin\Debug\Lab3.exe
+C:\Users\wowdi\source\repos\Lab3\Lab3\bin\Debug\Lab3.pdb
+C:\Users\wowdi\source\repos\Lab3\Lab3\obj\Debug\Lab3.csprojAssemblyReference.cache
+C:\Users\wowdi\source\repos\Lab3\Lab3\obj\Debug\Lab3.Form1.resources
+C:\Users\wowdi\source\repos\Lab3\Lab3\obj\Debug\Lab3.Properties.Resources.resources
+C:\Users\wowdi\source\repos\Lab3\Lab3\obj\Debug\Lab3.csproj.GenerateResource.cache
+C:\Users\wowdi\source\repos\Lab3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+C:\Users\wowdi\source\repos\Lab3\Lab3\obj\Debug\Lab3.exe
+C:\Users\wowdi\source\repos\Lab3\Lab3\obj\Debug\Lab3.pdb
+C:\Users\wowdi\OneDrive\Рабочий стол\Станкин\СЦОИ\3\Lab3\Lab3\bin\Debug\Lab3.exe.config
+C:\Users\wowdi\OneDrive\Рабочий стол\Станкин\СЦОИ\3\Lab3\Lab3\bin\Debug\Lab3.exe
+C:\Users\wowdi\OneDrive\Рабочий стол\Станкин\СЦОИ\3\Lab3\Lab3\bin\Debug\Lab3.pdb
+C:\Users\wowdi\OneDrive\Рабочий стол\Станкин\СЦОИ\3\Lab3\Lab3\obj\Debug\Lab3.csprojAssemblyReference.cache
+C:\Users\wowdi\OneDrive\Рабочий стол\Станкин\СЦОИ\3\Lab3\Lab3\obj\Debug\Lab3.Properties.Resources.resources
+C:\Users\wowdi\OneDrive\Рабочий стол\Станкин\СЦОИ\3\Lab3\Lab3\obj\Debug\Lab3.csproj.GenerateResource.cache
+C:\Users\wowdi\OneDrive\Рабочий стол\Станкин\СЦОИ\3\Lab3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+C:\Users\wowdi\OneDrive\Рабочий стол\Станкин\СЦОИ\3\Lab3\Lab3\obj\Debug\Lab3.exe
+C:\Users\wowdi\OneDrive\Рабочий стол\Станкин\СЦОИ\3\Lab3\Lab3\obj\Debug\Lab3.pdb
+C:\Users\wowdi\OneDrive\Рабочий стол\Станкин\СЦОИ\3\Lab3\Lab3\obj\Debug\Lab3.Pixel.resources
